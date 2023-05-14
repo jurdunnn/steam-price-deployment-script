@@ -1,1 +1,1 @@
-# pconte-com-deployment-script
+# steam-price-deployment-script
