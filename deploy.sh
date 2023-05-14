@@ -4,7 +4,7 @@
 cd ~/sites/
 
 # Clone Repo
-git https://github.com/jurdunnn/steam-price-checker.git 
+git clone https://github.com/jurdunnn/steam-price-checker.git 
 
 # Copy populated .env into repo
 cp ~/sites/.steam-price-checker-env ~/sites/steam-price-checker/.env
